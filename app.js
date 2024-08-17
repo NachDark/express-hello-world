@@ -29,12 +29,7 @@ const html = `
     <style>
     
 
-body <
-  heigh:665px;
-  background-image: url("https://carontestudio.com/img/caronte-web-estudio-logo.png");
-  background-size: 10rem;
-  
->
+
 
 
       @import url("https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css");
