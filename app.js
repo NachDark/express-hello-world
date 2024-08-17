@@ -26,6 +26,16 @@ const html = `
       }, 500);
     </script>
     <style>
+    
+
+body <
+  heigh:665px;
+  background-image: url("https://carontestudio.com/img/caronte-web-estudio-logo.png");
+  background-size: 10rem;
+  
+>
+
+
       @import url("https://p.typekit.net/p.css?s=1&k=vnd5zic&ht=tk&f=39475.39476.39477.39478.39479.39480.39481.39482&a=18673890&app=typekit&e=css");
       @font-face {
         font-family: "neo-sans";
@@ -39,7 +49,12 @@ const html = `
         font-size: calc(62rem / 16);
       }
       body {
-        background: white;
+      background-size: cover;
+background-repeat:no-repeat;
+  background-position-x:center;
+  background-image: url("https://www.barcelo.com/guia-turismo/wp-content/uploads/ok-playa-de-la-barrosa.jpg");
+  
+
       }
       section {
         border-radius: 1em;
@@ -54,7 +69,7 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+      Nos Casamos!
     </section>
   </body>
 </html>
