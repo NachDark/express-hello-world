@@ -13,7 +13,8 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render!</title>
+    <title>Enlace Ignacio & Celia</title>
+    <link rel="icon" href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pngtree.com%2Ffreepng%2Fwedding-ring-icon-design-illustration_5345012.html&psig=AOvVaw3oSrxhKmURHroK5N8iSTMx&ust=1724021583430000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjL-4SP_YcDFQAAAAAdAAAAABAE">
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
